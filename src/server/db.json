@@ -1,0 +1,19 @@
+{
+  "scheduleList": [
+    {
+      "id": 1,
+      "bandName": "Rindu Band",
+      "practiceDay": "Thursday"
+    },
+    {
+      "id": 2,
+      "bandName": "AKB89",
+      "practiceDay": "Friday"
+    },
+    {
+      "id": 3,
+      "bandName": "Billie Elish from Nganjuk",
+      "practiceDay": "Wednesday"
+    }
+  ]
+}
